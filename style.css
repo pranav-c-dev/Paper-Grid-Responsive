@@ -1,0 +1,12 @@
+
+
+  .fs-7 {
+    font-size: 0.75rem;
+  }
+  a.text-light {
+  text-decoration: none;
+}
+
+ul li .nav-link:hover {
+  text-decoration: underline;
+}
